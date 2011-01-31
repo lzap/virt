@@ -19,7 +19,7 @@ Jeweler::Tasks.new do |gem|
   gem.email = "ohadlevy@gmail.com"
   gem.authors = ["Ohad Levy"]
 
-  gem.add_runtime_dependency 'libvirt', '> 0.0.1'
+  gem.add_runtime_dependency 'libvirt', '> 0.2.0'
 
   #gem.add_development_dependency 'rspec', '> 1.2.3'
 end
